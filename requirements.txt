@@ -1,0 +1,4 @@
+Flask==3.12.5
+Selenium==3.0.3
+beautifulsoup4
+chromedriver_autoinstaller
